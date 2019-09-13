@@ -16,6 +16,8 @@ Nethereum is developed targeting netstandard 1.1, net451 and also as a portable 
 
 Upcoming releases will include functionalities such as [DevP2P](https://github.com/ethereum/devp2p), [Plasma](https://plasma.io/plasma.pdf) and Micro-Payments.
 
+<iframe width="560" height="315" src="http://playground.nethereum.com" frameborder="0" allowfullscreen></iframe> 
+
 ## Issues, Requests and help
 
 Please join the chat at:  [![Join the chat at https://gitter.im/juanfranblanco/Ethereum.RPC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/juanfranblanco/Ethereum.RPC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
